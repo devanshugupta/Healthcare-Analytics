@@ -1,9 +1,9 @@
 # healthcare_analytics
 
-HealthCare Analytics Pipeline that takes data from the SQL Server and Puts in into the Data Lake Gen 2.
-Performs ETL transformations using Spark and uses Data Warehousing techniques to create data marts.
-Synapse Analytics transfers the data into Power BI to create analytics reports.
-Databricks also uses Machine Learning models to predict the new User's data.
+1. HealthCare Analytics Pipeline that takes data from the SQL Server and Puts in into the Data Lake Gen 2.
+2. Performs ETL transformations using Spark and uses Data Warehousing techniques to create data marts.
+3. Synapse Analytics transfers the data into Power BI to create analytics reports.
+4. Databricks also uses Machine Learning models to predict the new User's data.
 
 We also incorporate CDC (change data capture) for both training and testing data.
 
