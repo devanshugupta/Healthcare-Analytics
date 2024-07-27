@@ -8,14 +8,14 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://strgproject1.dfs.core.windows.net/"
+		},
 		"AzureSqlDatabase1_properties_typeProperties_server": {
 			"value": "resume-project-1.database.windows.net"
 		},
 		"AzureSqlDatabase1_properties_typeProperties_database": {
 			"value": "project-1"
-		},
-		"AzureDataLakeStorage1_properties_typeProperties_url": {
-			"value": "https://strgproject1.dfs.core.windows.net/"
 		}
 	}
 }
