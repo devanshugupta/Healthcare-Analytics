@@ -8,6 +8,9 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://strgproject1.dfs.core.windows.net/"
 		},
@@ -16,6 +19,9 @@
 		},
 		"AzureSqlDatabase1_properties_typeProperties_database": {
 			"value": "project-1"
+		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0801-145254-qrdjh53j"
 		}
 	}
 }
